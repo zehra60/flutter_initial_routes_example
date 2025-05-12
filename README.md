@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bugün saat 16 ve ben ayın 12.05.2025
 ve ben sayfalar arası geçişi öğrendim sayfaya gitmeyi ve sonra geri dönmeyi
 bunun içinde elevatedbuttonun içinde onPressed:() {} içinde tanımladım ve yönlendirmek için Navigator.pushNamed(context,'/secondpage') diyerek ikinci sayfaya yönlendirdim ve ikinci sayfadada Navigator.pop(context); diyerekde geri bir önceki sayfaya geldim kısacası işin aslı byle am önemli olan bir diğer nokta ise her iki sayfayıda main.dart sayfasına import etmeniz gerekiyor isterseniz bunu birinci sayfayı main.darta ekleyin ve eklediğiniz birinci sayfaya da ikinci sayfayı da main darrta direk ekleyebilirsiniz veya birinci sayfayada ekleyebilirsiniz
@@ -21,3 +22,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
  
+=======
+# flutter_initial_routes_example
+this is flutter/routes example
+>>>>>>> 6d19c828885873a3f5e1086978d4efb18793c500
